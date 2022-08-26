@@ -1,0 +1,20 @@
+body {
+    background-color: aliceblue;
+}
+
+b {
+    font-size: 1.25em;
+    font-family: cursive;
+    color: red;
+    font: bold;
+}
+
+em {
+    font-size: 1em;
+    font-family: cursive;
+    font: bold;
+}
+
+b:hover {
+    color: rebeccapurple;
+}
